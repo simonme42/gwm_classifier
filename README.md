@@ -1,2 +1,2 @@
 # gwm_classifier
-A BoW ANN attempt to create a classifier for determining the warranty period of construction works
+A bag of words, ANN based attempt to create a classifier for determining the warranty period of construction works
